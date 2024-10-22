@@ -1,0 +1,4 @@
+int id, LocalDate fecha, int minutos, int puntos, int asistencias, int tapones,Posicion posicion
+4;2023-12-25;75;40;9;7;BASE;
+5;2024-01-16;68;24;12;2;ESCOLTA;
+6;2024-02-02;77;10;19;8;ALERO;
