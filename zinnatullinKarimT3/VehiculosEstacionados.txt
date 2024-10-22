@@ -1,0 +1,11 @@
+Moto:  Alquiler= 0.0, matricula= 111ABC, dni= 87654321C, telefono= 2555222 modelo= Ducatti 13, espejos= 1, casco= SI
+Coche:  Alquiler= 0.0, matricula= 123ABB, dni= 12345678C, telefono= 111331111, modelo= Lamborghini Gallardo, km= 230000, estado= DAÑADO
+Coche:  Alquiler= 0.0, matricula= 123ABC, dni= 12345678A, telefono= 111111111, modelo= Seat Leon, km= 200000, estado= NUEVO
+Coche:  Alquiler= 0.0, matricula= 123ABD, dni= 12345678B, telefono= 111111111, modelo= Seat Ibiza, km= 124000, estado= DAÑADO
+Coche:  Alquiler= 0.0, matricula= 123ABJ, dni= 12345678H, telefono= 111131111, modelo= Seat Ibiza, km= 640000, estado= DAÑADO_PARCIAL
+Coche:  Alquiler= 0.0, matricula= 123ABU, dni= 12345678I, telefono= 111111661, modelo= Seat Centauria, km= 10000, estado= DAÑADO_PARCIAL
+Coche:  Alquiler= 0.0, matricula= 123ABY, dni= 12345678D, telefono= 111241111, modelo= Toyota Prius, km= 340000, estado= NUEVO
+Moto:  Alquiler= 0.0, matricula= 231ABC, dni= 87654321B, telefono= 222123222 modelo= Ducatti 2, espejos= 1, casco= SI
+Moto:  Alquiler= 0.0, matricula= 321ABC, dni= 87654321A, telefono= 22222222 modelo= Ducatti 1111, espejos= 2, casco= SI
+Moto:  Alquiler= 0.0, matricula= 441ABC, dni= 87654321D, telefono= 2266622 modelo= Ducatti 77, espejos= 2, casco= NO
+Moto:  Alquiler= 0.0, matricula= 881ABC, dni= 87654321E, telefono= 22222888 modelo= Ducatti 88, espejos= 21, casco= NO
